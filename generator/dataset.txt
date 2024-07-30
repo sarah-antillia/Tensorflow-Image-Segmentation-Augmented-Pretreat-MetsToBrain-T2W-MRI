@@ -1,0 +1,21 @@
+https://www.cancerimagingarchive.net/collection/pretreat-metstobrain-masks/
+
+Pretreat-MetsToBrain-Masks | A Large Open Access Dataset of Brain Metastasis 3D Segmentations on MRI 
+with Clinical and Imaging Feature Information
+
+
+---
+<b>Citations & Data Usage Policy</b><br>
+ Data Citation Required: Users must abide by the TCIA Data Usage Policy and Restrictions. 
+ Attribution must include the following citation, including the Digital Object Identifier:<br>
+
+<b>Data Citation</b><br>
+Ramakrishnan, D., Jekel, L., Chadha, S., Janas, A., Moy, H., Maleki, N., Sala, M., Kaur, M., <br>
+Petersen, G. C., Merkaj, S., von Reppert, M., Baid, U., Bakas, S., Kirsch, C., Davis, M., Bousabarah, K.,<br>
+ Holler, W., Lin, M., Westerhoff, M., Aneja, S., Memon, F., Aboian, M. <br>
+ (2023). A Large Open Access Dataset of Brain Metastasis 3D Segmentations on MRI with Clinical and Imaging <br>
+ Feature Information (Version 1) [dataset]. <br>
+ The Cancer Imaging Archive. DOI: https://doi.org/10.7937/6be1-r748<br>
+ 
+
+
